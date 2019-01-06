@@ -12,3 +12,10 @@ include:
   - _pages
 
 timezone: America/Los_Angeles
+
+url: https://ucsb-cs64.github.io 
+baseurl: "/"  
+github_url: https://github.com/ucsb-cs64/ucsb-cs64.github.io
+
+title: "UCSB CS64"
+course: "CS64"
