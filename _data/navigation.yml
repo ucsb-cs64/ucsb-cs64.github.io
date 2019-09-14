@@ -3,18 +3,16 @@ production_url: https://ucsb-cs64.github.io
 home:
    title: UCSB CS64
    url: /
-   baseurl: /w19
-
-
+   baseurl: /f19
 
 offerings:
-   title: "W19"
+   title: "F19"
    url: /	
-   baseurl: /w19
+   baseurl: /f19
    items:
-      - title: "W19"
+      - title: "F19"
         url: /
-        baseurl: /w19
+        baseurl: /f19
 
 offering_links:
   - title: Course Information
