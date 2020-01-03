@@ -6,9 +6,9 @@ home:
    baseurl: /f19
 
 offerings:
-   title: "F19"
+   title: "W20"
    url: /	
-   baseurl: /f19
+   baseurl: /w20
    items:
       - title: "F19"
         url: /
