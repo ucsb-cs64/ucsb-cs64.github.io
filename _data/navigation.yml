@@ -16,42 +16,11 @@ offering_menus:
       - title: Calendar
         url: /info/calendar/
         description: "Assignment Calendar"
-      - title: Lectures
-        url: /lec_list/
-        description: "Lecture-related information"
 
   -
     term: F19
     baseurl: /f19
-    items: 
-      - title: Hwk
-        url: /hwk/
-        description: "Homework Assignments"
-      - title: Lab
-        url: /lab/
-        description: "Lab Assignments"
-      - title: Exam
-        url: /exam/
-        description: "Exams"
-      - title: Cal
-        url: /info/calendar/
-        description: "Assignment Calendar"
-      - title: More
-        dropdown:
-           - title: Syllabus
-             url: /info/syllabus/
-             description: "Syllabus"    
-           - title: Info Pages
-             url: /info/
-             description: "List of General Information Pages"
-      - title: Links
-        dropdown:	 
-           - title: Gauchospace
-             url: https://gauchospace.ucsb.edu
-             description: "Overall Grade Information"
-           - title: GradeScope
-             url: https://gradescope.com
-             description: "HW and Lab Grades"
-           - title: Piazza
-             url: https://piazza.com
-             description: "Q&A Forum"
+
+  -
+    term: W19
+    baseurl: /w19
